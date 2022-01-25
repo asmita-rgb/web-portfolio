@@ -28,8 +28,9 @@ p{
     background-repeat: no-repeat;
 }
 section{
-    height: 550px;
-    padding-bottom: 100px;
+    height: 700px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 .link-button{
     text-decoration: none;
@@ -44,6 +45,9 @@ section{
     
     background-repeat: none;
     background-position: right;
+}
+.dream-area h2{
+    padding-top: 200px;
 }
 .h-work{
     text-align: center;
